@@ -191,6 +191,18 @@ a:hover {
     animation: slideInDown 0.8s ease-out;
 }
 
+/* Hero Title */
+.hero-title {
+    font-size: 3rem;
+    color: var(--neon-green);
+    text-shadow: 0 0 20px var(--neon-green);
+    margin-bottom: 2rem;
+    text-align: center;
+    min-height: 3.5rem;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
 /* IDE Header */
 .ide-header {
     background-color: var(--secondary-bg);
@@ -326,12 +338,6 @@ a:hover {
 .comment {
     color: var(--text-secondary);
     font-style: italic;
-}
-
-#typing-text {
-    display: inline;
-    color: var(--neon-green);
-    text-shadow: 0 0 10px var(--neon-green);
 }
 
 #typing-text::after {
@@ -535,6 +541,7 @@ a:hover {
     height: 100%;
     object-fit: cover;
     transition: all 0.4s ease;
+    display: block;
 }
 
 .robot-dog-image-wrapper:hover .robot-dog-image {
