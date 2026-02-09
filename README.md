@@ -259,4 +259,4 @@ Enjoy your elite coding platform! 🚀✨
 
 ---
 
-**Made with ❤️ by a Senior Frontend Developer**
+**Made with ❤️ by a Ajinkya Jadhav**
