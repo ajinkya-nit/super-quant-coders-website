@@ -1,5 +1,7 @@
 # 🚀 Super Quant Coders - Elite Developer & Quantitative Analyst Club Website
 
+Hi! I'm **Ajinkya Jadhav**. I'm an Electrical Engineering undergrad here at NITJ who loves coding and building cool things on the web.
+
 A stunning, responsive website with a **FinTech meets Cyberpunk** aesthetic. Built with vanilla HTML5, CSS3, and ES6+ JavaScript.
 
 ---
